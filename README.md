@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello and welcome to my profile 👋
+
+I am Tom and, depending on who you ask, I am either a masters physics student from Hamburg, Germany or a freelance developer, data scientist and consulatant.
 
 <!--
 **Tom-Julux/Tom-Julux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
