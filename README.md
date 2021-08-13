@@ -12,6 +12,9 @@ I am Tom and, depending on who you ask, I am either a **masters physics student*
 
 - Bachelor's degree in computer science and phyics
 - Compliance seminar for EU (GER) financial regulations
+- Datacamp - Data Scientist track
+- Datacamp - SQL Fundamentals Track
+- Datacamp - Data Analyst track
 
 <!--
 **Tom-Julux/Tom-Julux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
