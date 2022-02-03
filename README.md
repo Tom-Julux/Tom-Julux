@@ -6,6 +6,7 @@ I am Tom and, depending on who you ask, I am either a **masters physics student*
 
 -   🥈 **1st Runner up at Coding Competition** at _Rohde & Schwarz Engeneering Competition_ (May 2021)
 -   📄 Implemented an **Article 26 MiFIR Transaction Reporting** system (April 2020)
+-   🏅 Speedran multiple **[Datacamp](https://www.datacamp.com/join-me/ODQyODk1OA==)** tracks
 -   🎮 **Participated in 4 ludum dare combo game jams** and counting
 
 ## 📄 Qualifications
@@ -15,6 +16,7 @@ I am Tom and, depending on who you ask, I am either a **masters physics student*
 - Datacamp - Data Scientist track
 - Datacamp - SQL Fundamentals Track
 - Datacamp - Data Analyst track
+- Datacamp - Data Engineer track
 
 <!--
 **Tom-Julux/Tom-Julux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
