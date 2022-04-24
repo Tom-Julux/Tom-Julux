@@ -2,13 +2,6 @@
 
 I am Tom and, depending on who you ask, I am either a **masters physics student** from Hamburg, Germany or a **freelance developer, data scientist** and **consultant**.
 
-## 🏅 Achievements related to tech
-
--   🥈 **1st Runner up at Coding Competition** at _Rohde & Schwarz Engeneering Competition_ (May 2021)
--   📄 Implemented an **Article 26 MiFIR Transaction Reporting** system (April 2020)
--   🏅 Speedran multiple **[Datacamp](https://www.datacamp.com/join-me/ODQyODk1OA==)** tracks
--   🎮 **Participated in 4 ludum dare combo game jams** and counting
-
 ## 📄 Qualifications
 
 - Bachelor's degree in computer science and phyics
